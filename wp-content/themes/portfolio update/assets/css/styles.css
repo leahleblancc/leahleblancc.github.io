@@ -1,0 +1,232 @@
+/* colours:
+orange: #fdae84
+purple: #3c2e3d
+pink: #ecc7c0 
+teal: #62baaf
+light teal: #aae9e4
+*/
+
+
+/*HEADER STYLES*/
+header img {
+	max-width: 100%;
+}
+
+#collapsibleNavbar ul {
+	margin-left: auto !important;
+}
+
+.navbar .navbar-brand {
+	color: #62baaf ! important;
+	font-family: atrament-web, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+}
+.navbar .navbar-brand:hover {
+	color: #fdae84 ! important;
+}
+.navbar .nav-link {
+	color: white ! important;
+	font-family: acumin-pro,sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+#menu-primary a:hover {
+	color: #fdae84 ! important;
+}
+
+
+/*RESUME STYLES*/
+.resumeimg img {
+	max-width: 100%;
+}
+
+.resumeimg{
+	margin: 20px auto;
+}
+
+
+
+
+
+
+/*PAGE STYLES*/
+.container-fluid {
+	margin: 0;
+	padding: 0;
+}
+
+.title h3 {
+	font-family: atrament-web, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 70px;
+	color: #fdae84;
+	margin: 30px 0 0 0;
+}
+
+.title {
+	text-align: center;
+	margin: 60px 0;
+}
+
+.title p {
+	font-family: acumin-pro-condensed, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 22px;
+	color: #3c2e3d;
+	font-weight: lighter;
+}
+
+
+
+
+/*FRONT PAGE STYLES*/
+.frontpage h1 {
+	color: #62baaf;
+	font-family: atrament-web, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 50px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+.frontpage img {
+	margin: 0;
+	padding 0;
+	max-width: 100%;
+
+}
+.frontpagetitle {
+	margin: 100px 20px 0 20px;
+}
+
+
+
+
+
+
+
+/*PORTFOLIO PAGE STYLES*/
+.portthumb {
+	margin: 20px;
+	object-fit: contain;
+}
+.porttitle {
+	color: #62baaf;
+	font-family: atrament-web, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	margin: 40px auto;
+	font-size: 25px;
+	text-align: center;
+}
+.work h4 {
+	font-family: atrament-web, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 20px;
+	color: #3c2e3d;
+}
+.work img {
+	object-fit: contain;
+}
+
+.worktype h3 {
+	font-family: atrament-web, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 25px;
+	color: #62baaf;
+	text-align: center;
+}
+
+
+
+
+/*ABOUT PAGE STYLES*/
+.abouttext {
+	padding-right: 20px;
+}
+.abouttext h3 {
+	font-family: atrament-web, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 70px;
+	color: #fdae84;
+	margin: 30px 0 0 0;
+}
+.portrait img {
+	border-radius: 50%;
+	width: 100%;
+	margin: 50px auto;
+	vertical-align: middle;
+}
+
+
+
+
+
+
+/*CONTACT PAGE STYLES*/
+.contact {
+	margin: 20px 0 70px 0;
+}
+
+.icon {
+	text-align: center;
+	padding: 10px;
+
+}
+.contact .fa, .contact .fas {
+	background-color: #3c2e3d;
+	color: white;
+	font-size: 40px;
+	border-radius: 50%;
+	padding: 20px;
+	margin: 0 auto;
+	text-decoration: none;
+}
+
+.contact a:hover {
+	color: #fdae84;
+}
+.contact h6 {
+	color: #62baaf;
+	font-family: acumin-pro-condensed, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	text-align: center;
+}
+.contact p {
+	text-align: center;
+}
+
+
+/*FOOTER STYLES*/
+.social-links {
+	text-align: center;
+	font-size: 30px;
+}
+.social-links a {
+	color: white;
+	margin: 20px;
+	
+}
+.social-links a:hover {
+	color: #fdae84;
+}
+footer {
+	background-color: #3c2e3d;
+
+	padding-bottom: 20px;
+}
+footer p {
+	text-align: center;
+	font-family: atrament-web, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	color: #62baaf;
+}
